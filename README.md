@@ -2,11 +2,11 @@
 
 An end-to-end Excel BI project that turns a messy, 100-row raw order export into a fully interactive sales & fulfillment dashboard — covering data cleaning with Power Query, pivot-based analysis, dynamic KPI formulas, and a slicer-driven dashboard.
 
-![Final Dashboard](screenshots/Final_Dashboar_Pic.png)
+![Final Dashboard](screenshots/Final%20Dashboar%20Pic.png)
 
 ## 🎥 Live Demo
 
-![Dashboard Demo](Sales_Order_Health.gif)
+![Dashboard Demo](Sales%20Order%20Health.gif)
 
 ---
 
@@ -53,16 +53,16 @@ All cleaning was done in **Power Query** rather than manually, so the pipeline r
 
 | Chart | Preview |
 |---|---|
-| Orders by Status | ![Orders by Status](screenshots/Orders_by_status_by_chart.png) |
-| Revenue by Payment Method | ![Revenue by Payment Method](screenshots/Revenue_by_payment_Method.png) |
-| Revenue by Country (Map) | ![Revenue by Country](screenshots/Revenue_by_Country_Map.png) |
-| Completed vs Cancelled — by Category | ![Completed vs Cancelled by Category](screenshots/Completed_bs_Cancelled_orders_by_Category_column_chart.png) |
-| Completed vs Cancelled — by Country | ![Completed vs Cancelled by Country](screenshots/Completed_Vs_Cancelled_Orders_by_Country_bar_chart.png) |
-| Cancelled Orders by Category (Pivot) | ![Cancelled by Category](screenshots/Cancelled_by_Category.png) |
-| Completed Orders by Category (Pivot) | ![Completed by Category](screenshots/Completed_by_Category.png) |
-| Cancelled Orders by Country (Pivot) | ![Cancelled by Country](screenshots/Cancelled_by_country.png) |
-| Completed Orders by Country (Pivot) | ![Completed by Country](screenshots/Completed_by_country.png) |
-| Country × Category Order Heatmap | ![Country x Category](screenshots/The_Most_country_category_Cancelled.png) |
+| Orders by Status | ![Orders by Status](screenshots/Orders%20by%20status%20by%20chart.png) |
+| Revenue by Payment Method | ![Revenue by Payment Method](screenshots/Revenue%20by%20payment%20Method.png) |
+| Revenue by Country (Map) | ![Revenue by Country](screenshots/Revenue%20by%20Country%20Map.png) |
+| Completed vs Cancelled — by Category | ![Completed vs Cancelled by Category](screenshots/Completed%20bs%20Cancelled%20orders%20by%20Category%20column%20chart.png) |
+| Completed vs Cancelled — by Country | ![Completed vs Cancelled by Country](screenshots/Completed%20Vs%20Cancelled%20Orders%20by%20Country%20bar%20chart.png) |
+| Cancelled Orders by Category (Pivot) | ![Cancelled by Category](screenshots/Cancelled%20by%20Category.png) |
+| Completed Orders by Category (Pivot) | ![Completed by Category](screenshots/Completed%20by%20Category.png) |
+| Cancelled Orders by Country (Pivot) | ![Cancelled by Country](screenshots/Cancelled%20by%20country.png) |
+| Completed Orders by Country (Pivot) | ![Completed by Country](screenshots/Completed%20by%20country.png) |
+| Country × Category Order Heatmap | ![Country x Category](screenshots/The%20Most%20country_category%20Cancelled.png) |
 
 ---
 
@@ -85,19 +85,19 @@ All cleaning was done in **Power Query** rather than manually, so the pipeline r
 ## 📁 Repository Structure
 
 ```
-├── MyThirdDashboard_ISA.xlsx
-├── Sales_Order_Health.gif
+├── Sales Order Health.xlsx
+├── Sales Order Health.gif
 ├── README.md
 └── screenshots/
-    ├── Final_Dashboar_Pic.png
-    ├── The_Most_country_category_Cancelled.png
-    ├── Cancelled_by_Category.png
-    ├── Completed_by_Category.png
-    ├── Cancelled_by_country.png
-    ├── Completed_by_country.png
-    ├── Orders_by_status_by_chart.png
-    ├── Revenue_by_payment_Method.png
-    ├── Revenue_by_Country_Map.png
-    ├── Completed_Vs_Cancelled_Orders_by_Country_bar_chart.png
-    └── Completed_bs_Cancelled_orders_by_Category_column_chart.png
+    ├── Final Dashboar Pic.png
+    ├── The Most country_category Cancelled.png
+    ├── Cancelled by Category.png
+    ├── Completed by Category.png
+    ├── Cancelled by country.png
+    ├── Completed by country.png
+    ├── Orders by status by chart.png
+    ├── Revenue by payment Method.png
+    ├── Revenue by Country Map.png
+    ├── Completed Vs Cancelled Orders by Country bar chart.png
+    └── Completed bs Cancelled orders by Category column chart.png
 ```
